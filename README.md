@@ -1,79 +1,75 @@
 <div align="center">
 
-# Hi there, I'm Cynthia 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Cynthia's%20Github&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20·%20Full-Stack%20Developer&descAlignY=55&descSize=18)
 
-### Software Engineering Student · Full-Stack Developer · Hackathon Enthusiast
+</div>
 
-*Turning ideas into functional systems — one commit at a time.*
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthia-tan-xin-ru/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_cynth1a/?hl=en)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cynthiatan0121@gmail.com)
+### 🔗 Connect with me
+
+[![About Me](https://img.shields.io/badge/About%20Me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/https_cynth1a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthia-tan-xin-ru/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cynthiatan0121@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a passionate **Software Engineering student** who loves building full-stack web applications from the ground up. Whether it's a hackathon crunch or a personal project, I thrive on the challenge of turning a rough idea into a polished, working product.
-
-- 🔭 Currently working on **full-stack web projects** and sharpening my skills through hackathons
-- 🌱 Experienced across **frontend, backend, and database development**
-- ⚡ I enjoy the entire product lifecycle — from wireframing in Figma to shipping to production
-- 💡 Always looking for opportunities to build things that solve real problems
-
----
-
-## 🛠️ Languages & Tools
+```
+Hi, I'm Cynthia Tan — a Full-Stack Developer focused on building clean, scalable,
+and functional web applications. I value structure, performance, and long-term
+maintainability over hype. Passionate about hackathons and turning ideas into reality.
+```
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 💻 Technologies
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Core Technologies**
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</div>
+**Frameworks & Libraries**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+**Team Collaboration**
 
-<div align="center">
-
-![Cynthia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cynthia-tan-xin-ru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthia-tan-xin-ru&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.
 
 ---
 
-## 🤝 Let's Connect!
+## 📊 Statistics
 
-I'm always open to collaborating on interesting projects, hackathons, or just talking tech. Feel free to reach out!
+### Cynthia's GitHub Stats
 
-<div align="center">
-
-📧 **cynthiatan0121@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/cynthia-tan-xin-ru/) &nbsp;|&nbsp; 📸 [Instagram](https://www.instagram.com/https_cynth1a/?hl=en)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="180"/>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cynthia-tan-xin-ru&color=blueviolet&style=flat-square" alt="Profile views" />
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📈 Contribution Graph
+
+[![Cynthia's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
 </div>
