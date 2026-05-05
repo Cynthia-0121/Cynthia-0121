@@ -1,61 +1,43 @@
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=cynth1a.&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer" />
+</div>
 
-# 🌌 CYNTHIA.EXE
-**Full-Stack Software Engineer | APU Student**
 
----
-
+### 📩 Connect with me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=40&animation=fadeIn&fontAlignY=35&theme=dark" />
+<a href="https://www.linkedin.com/in/cynthia-tan-xin-ru/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:cynthiatan0121@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/https_cynth1a/?hl=en" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-### ⚡ Quick Navigation
-| [LinkedIn](https://www.linkedin.com/in/cynthia-tan-xin-ru/) | [Instagram](https://www.instagram.com/https_cynth1a/?hl=en) | [Email](mailto:cynthiatan0121@gmail.com) |
-| :---: | :---: | :---: |
 
 ---
 
 ### 📂 System Profile
-> **Status:** Pursuing Diploma in Software Engineering at APU  
-> **Specialization:** Full-Stack Web Architecture & Database Systems  
-> **Mission:** Preventing project failure through autonomous agentic ecosystems  
-> **Current Focus:** Digital Forensics & AI-driven Construction Intelligence
-
+> **Mission:** Continuous learning to engineer impactful, real-world applications.  
+> **Focus:** Software Engineering and Full-Stack Development
 ---
 
 ### 🛠️ Tech Stack Matrix
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Front-End** | `React` `HTML5` `CSS3` `JavaScript` `Flutter` |
-| **Back-End** | `Node.js` `Python` `PHP` `Java` |
-| **Database** | `MySQL` `SQL` |
-| **Creative** | `Figma` `UI/UX Design` |
-
----
-
-### 🏆 Milestone Feed
-*   **BuildSure Intelligence:** Developed an autonomous agentic ecosystem for UMHackathon 2026.
-*   **Music Academy Management:** Architected the MAMS system for Harmony Music Academy.
-*   **Case Studies:** Analyzed entrepreneurial logic (Effectuation) and industrial leaders.
-
----
-
-### 📊 Performance Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,react,tailwind,flask,nodejs,mysql,firebase,supabase,figma&perline=7&theme=dark" />
 </p>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Views" />
-</p>
+### 🚩Projects & Hackathons
+#### 🤖 UMHackathon 2026
+*   **Focus:** AI Systems & Agentic Workflow Automation
+*   **Project:** Developed **BuildSure Construction Intelligence**, an autonomous agentic ecosystem designed to revolutionize project management efficiency.
+
+#### 💡 Project 2030: MyAI Future Hackathon
+*   **Focus:** AI Integration & Real-World Impact
+*   **Project:** Architected an **AI-Integrated Emergency Response System** aimed at enhancing safety and response times through intelligent automation.
+
+#### 🌿 Green Pulse (APU Campus)
+*   **Focus:** Sustainability & Responsive Web Development
+*   **Project:** Built a **Sustainability Responsive Web Application** to encourage campus green initiatives like volunteering and celebrating eco-friendly wins.
 
 </div>
