@@ -41,4 +41,3 @@
 *   **Project:** Built a **Sustainability Responsive Web Application** to encourage campus green initiatives like volunteering and celebrating eco-friendly wins.
 
 </div>
-<div> </div>
